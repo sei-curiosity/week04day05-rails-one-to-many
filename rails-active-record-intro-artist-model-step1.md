@@ -25,16 +25,13 @@ Over the next few lessons we're gonna build an app that tracks Artists and Songs
 
 ## Concepts + Definitions
 
-### Turn and Talk (15 min)
-In groups, do a Google search the following topics:
+### Turn and Talk (6 min)
+Do a Google search the following topics:
 
-- Relational Databases
-- SQL (Structured Query Language)
-- Postgresql
 - ORM (Object Relational Mapper)
 - Active Record
 
-I'll ask each group to explain one in their own words to the class.
+I'll ask 2 students to explain a topic in their own words to the class.
 
 ### Relational Databases (RDBMS)
 RDBMS stand for __relational database management system (RDBMS)__. You can think of a relational database as a fancy Excel spreadsheet. Here's what our **Artist** Model will look like:
