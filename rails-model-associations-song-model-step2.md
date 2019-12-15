@@ -45,7 +45,7 @@ Now, how can we relate the books that belong to a given author? We add an `autho
 
 ### Set-up
 
-Make sure to `cd` into your Muse App directory. Some starter code is [here](https://github.com/marcwright/muse-wdir) if you want to clone. Be sure to pull the `artist-model` branch. That's the starting point for this lesson.
+Make sure to `cd` into your Muse App directory. if you want to clone. Be sure to pull the `artist-model` branch. That's the starting point for this lesson.
 
 <br>
 
