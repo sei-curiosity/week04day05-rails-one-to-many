@@ -11,4 +11,9 @@ class SongsController < ApplicationController
           
     redirect_to artist
   end
+
+
+  def xxx
+
+  end
 end
